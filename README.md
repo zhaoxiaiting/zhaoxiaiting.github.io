@@ -3,7 +3,6 @@
   <head>
 	<meta charset="utf-8"/>
 	<title>小小的世界</title>
-	<link href="test.css"rel=“stylesheet”type="text/css"/>
 </head>
 <body>
 <h1>欢迎来到俺滴世界</h1>
