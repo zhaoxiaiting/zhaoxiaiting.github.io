@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
 <head>
-	<meta charset="utf-8">
-	<style type="text.css">
-	</style>
+	<meta charset="utf-8"/>
 	<title>小小的世界</title>
-	<link href="" =“stylesheet” type="text.css" href="">
+	<link href="test.css" =“stylesheet” type="text/css"/>
 </head>
 <body>
 <h1>欢迎来到俺滴世界</h1>
