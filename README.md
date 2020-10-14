@@ -2,7 +2,7 @@
 <html lang="zh-cn">
 <head>
 	<meta charset="utf-8">
-	<style type="text/css">
+	<style type="text.css">
 	</style>
 	<title>小小的世界</title>
 	<link href="" =“stylesheet” type="text.css" href="">
